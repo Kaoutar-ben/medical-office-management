@@ -27,7 +27,7 @@ public class PraticienController {
     }
 
     @GetMapping("/{id}")
-    @Operation(summary = "Récup��rer un praticien par son ID", description = "Retourne un praticien selon l'ID fourni")
+    @Operation(summary = "Récupérer un praticien par son ID", description = "Retourne un praticien selon l'ID fourni")
     @ApiResponse(responseCode = "200", description = "Praticien trouvé")
     @ApiResponse(responseCode = "404", description = "Praticien non trouvé")
     public ResponseEntity<Praticien> getPraticienById(@PathVariable Long id) {

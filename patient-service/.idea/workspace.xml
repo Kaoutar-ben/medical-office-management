@@ -4,7 +4,14 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="bc0f1132-26ec-426d-a5b5-e199c9d84009" name="Changes" comment="Service Patient fait" />
+    <list default="true" id="bc0f1132-26ec-426d-a5b5-e199c9d84009" name="Changes" comment="Service Patient fait">
+      <change afterPath="$PROJECT_DIR$/../RendezVous/src/main/java/com/kaoutar/rendezvous/client/client.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../RendezVous/src/main/java/com/kaoutar/rendezvous/controller/AppointmentController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../RendezVous/src/main/java/com/kaoutar/rendezvous/model/Appointment.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../RendezVous/src/main/java/com/kaoutar/rendezvous/repository/AppointmentRepository.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../RendezVous/src/main/java/com/kaoutar/rendezvous/service/AppointmentService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../RendezVous/src/main/resources/application.yml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -18,7 +25,7 @@
     </option>
   </component>
   <component name="Git.Settings">
-    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
   </component>
   <component name="GitHubPullRequestSearchHistory"><![CDATA[{
   "lastFilter": {
@@ -53,6 +60,7 @@
     "Spring Boot.PatientServiceApplication.executor": "Run",
     "git-widget-placeholder": "master",
     "kotlin-language-version-configured": "true",
+    "last_opened_file_path": "C:/Users/Etudiant/Desktop/Git/medical-office-management",
     "node.js.detected.package.eslint": "true",
     "node.js.detected.package.tslint": "true",
     "node.js.selected.package.eslint": "(autodetect)",
@@ -86,7 +94,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1734595142247</updated>
-      <workItem from="1734595143204" duration="7288000" />
+      <workItem from="1734595143204" duration="14160000" />
     </task>
     <task id="LOCAL-00001" summary="Initialisation du projet">
       <option name="closed" value="true" />
